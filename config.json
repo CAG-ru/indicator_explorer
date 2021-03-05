@@ -1,0 +1,30 @@
+{
+	"dataset": {
+		"dtypes": {
+			"id"                     : "int64",
+			"object_name"            : "object",
+			"object_okato"           : "object",
+			"object_oktmo"           : "object",
+			"year"                   : "int64",
+			"indicator_name"         : "object",
+			"indicator_unit"         : "object",
+			"original_unit"          : "object",
+			"area_type"              : "object",
+			"age_group"              : "object",
+			"year_of_birth"          : "float64",
+			"sex"                    : "object",
+			"month"                  : "object",
+			"birth_order"            : "object",
+			"mother_marital_status"  : "object",
+			"death_cause"            : "object",
+			"bride_age"              : "object",
+			"groom_age"              : "object",
+			"country"                : "object",
+			"migration_direction"    : "object",
+			"indicator_value"        : "float64",
+			"original_accuracy"      : "float64",
+			"methodology"            : "object",
+			"notes"                  : "object"
+		}
+	}
+}
